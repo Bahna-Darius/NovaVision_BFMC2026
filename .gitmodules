@@ -1,12 +1,12 @@
 [submodule "vehicle/Brain"]
 	path = vehicle/Brain
-	url = https://github.com/ECC-BFMC/Brain.git
+	url = https://github.com/Bahna-Darius/Brain.git
 [submodule "vehicle/Embedded"]
 	path = vehicle/Embedded
-	url = https://github.com/ECC-BFMC/Embedded_Platform.git
+	url = https://github.com/Bahna-Darius/Embedded_Platform.git
 [submodule "pc_side/Simulator"]
 	path = pc_side/Simulator
-	url = https://github.com/ECC-BFMC/Simulator.git
+	url = https://github.com/Bahna-Darius/Simulator.git
 [submodule "pc_side/Dashboard"]
 	path = pc_side/Dashboard
-	url = https://github.com/ECC-BFMC/Computer.git
+	url = https://github.com/Bahna-Darius/Computer.git
