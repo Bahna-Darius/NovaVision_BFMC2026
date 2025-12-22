@@ -17,8 +17,8 @@
 
 ▶️ **Click the link below to watch the latest project demonstration video (hosted on GitHub):**
 
-<video src="VideoReport.mp4" width="100%" controls>
-Your browser does not support the video tag.
+<video width="600" controls>
+  <source src="VideoReport.mp4" type="video/mp4">
 </video>
 
 > The video showcases the current behavior of the autonomous system, including perception, control, and navigation logic.
