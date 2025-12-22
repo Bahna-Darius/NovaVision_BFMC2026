@@ -22,4 +22,4 @@ This repository is organized as a monorepo containing all subsystems:
 * **Hardware:** Raspberry Pi 5, STM32 Nucleo, Camera, IMU
 
 ---
-*Developed by Team NovaVision for BFMC 2025.*
+*Developed by Team NovaVision for BFMC 2026.*
