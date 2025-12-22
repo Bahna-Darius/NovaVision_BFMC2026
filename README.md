@@ -1,4 +1,4 @@
-# 🚗 Team NovaVision - BFMC 2025
+# 🚗 Team NovaVision - BFMC 2026
 
 Welcome to the official repository of **Team NovaVision** for the **Bosch Future Mobility Challenge 2025**. Our goal is to develop a robust Level 3 autonomous driving system for a 1:10 scale vehicle capable of navigating a smart city environment.
 
