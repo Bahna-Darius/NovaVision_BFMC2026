@@ -14,7 +14,7 @@
 | **Localization system** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **System integration & full-stack testing** |  |  |  |  |  |  |  | Created modules that supports full-stack testing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Architecture** |  | Work in progress |  |  |  |  | First architecture model | First architecture model |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Documentation & deliverables (reports, videos)** |  |  | Poject status 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Week breaks** |  |  |  | Winter break | Winter break |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Documentation & deliverables (reports, videos)** |  |  | Poject status 1 |  |  |  |  |  | Project status 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Week breaks** |  |  |  | Winter break | Winter break | Winter break |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
