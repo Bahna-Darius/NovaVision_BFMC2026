@@ -7,9 +7,9 @@
 | **Semaphores (hardware + server integration)** |  | Set up semaphores with arduino |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Lane keeping (control integration)** |  | Line detection research | Line detection implemented |  |  |  | Line keeping implemented |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Turn signals** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Traffic sign detection** |  |  |  |  |  |  | Implemented |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Semaphore recognition & interpretation** |  |  |  |  |  |  | Work in progress |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Obstacle detection** |  |  |  |  |  |  |  | Testing sensor hc-sro4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Traffic sign detection** |  |  |  |  |  |  | Implemented |  | Working on a better model |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Semaphore recognition & interpretation** |  |  |  |  |  |  | Work in progress |  | Integrated in yolo model |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| **Obstacle detection** |  |  |  |  |  |  |  | Testing sensor hc-sro4 |  | Implemented sensor in embed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Parking system** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Localization system** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | **System integration & full-stack testing** |  |  |  |  |  |  |  | Created modules that supports full-stack testing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
